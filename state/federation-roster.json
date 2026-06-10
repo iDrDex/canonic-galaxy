@@ -1,0 +1,60 @@
+{
+  "servers": [
+    {
+      "name": "mac-01",
+      "actor": "iDrDex@mac-01",
+      "runner_id": "mac-01",
+      "url": null,
+      "reachable": true,
+      "local": true,
+      "remote": false,
+      "is_seeder": true
+    },
+    {
+      "name": "nas-01",
+      "actor": "idrdex@nas-01",
+      "runner_id": "nas-01",
+      "url": null,
+      "reachable": false,
+      "local": false,
+      "remote": true
+    },
+    {
+      "name": "gha",
+      "actor": "github-actions@gha",
+      "runner_id": "gha",
+      "url": null,
+      "reachable": false,
+      "local": false,
+      "remote": true
+    },
+    {
+      "name": "mac-01",
+      "actor": "idrdex@mac-01",
+      "runner_id": "mac-01",
+      "url": null,
+      "reachable": false,
+      "local": false,
+      "remote": true
+    },
+    {
+      "name": "nas-01-real",
+      "actor": "idrdex@nas-01-real",
+      "runner_id": "nas-01-real",
+      "url": null,
+      "reachable": false,
+      "local": false,
+      "remote": true
+    },
+    {
+      "name": "test",
+      "actor": "test",
+      "runner_id": "test",
+      "url": null,
+      "reachable": false,
+      "local": false,
+      "remote": true
+    }
+  ],
+  "generated_at": "2026-06-10T05:10:46Z"
+}
