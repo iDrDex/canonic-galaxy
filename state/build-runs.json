@@ -4,11 +4,6 @@
   "runs": [],
   "recent_attestations": [
     {
-      "ts": "2026-06-10T03:20:55Z",
-      "payload_hash": "961a2fde5a48dde99e1c4ce13988cee5e5b3c65481f2b757bce81eca9879cabe",
-      "runner_id": "github-actions@gha"
-    },
-    {
       "ts": "2026-06-10T04:57:45Z",
       "payload_hash": "48ba5991855d453739431103d41ac4097dc39a2b1bfd059501cc6d66fd5d1eec",
       "runner_id": "github-actions@gha"
@@ -29,5 +24,5 @@
       "runner_id": "github-actions@gha"
     }
   ],
-  "generated_at": "2026-06-10T12:34:37Z"
+  "generated_at": "2026-06-10T12:49:38Z"
 }
