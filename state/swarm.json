@@ -2,17 +2,17 @@
   "peers": [
     {
       "actor": "github-actions@gha",
-      "last_seen": "2026-06-10T06:28:56Z",
-      "last_image_digest": "sha256:67884d00a303ede2d45101f03bf1ed384721a90fbccc04a79a4cafadedb20431",
+      "last_seen": "2026-06-10T11:45:36Z",
+      "last_image_digest": "sha256:d0fe74a66cfbc226e9112581cee823345a9098dfad8fea0b98e474940beeb0d5",
       "daemon_uptime_sec": 0,
-      "last_seen_relative": "5h ago"
+      "last_seen_relative": "23m ago"
     },
     {
       "actor": "github-actions",
-      "last_seen": "2026-06-10T06:27:31Z",
-      "last_image_digest": "sha256:67884d00a303ede2d45101f03bf1ed384721a90fbccc04a79a4cafadedb20431",
+      "last_seen": "2026-06-10T11:44:06Z",
+      "last_image_digest": "sha256:d0fe74a66cfbc226e9112581cee823345a9098dfad8fea0b98e474940beeb0d5",
       "daemon_uptime_sec": 0,
-      "last_seen_relative": "5h ago"
+      "last_seen_relative": "25m ago"
     },
     {
       "actor": "test",
@@ -44,5 +44,5 @@
     }
   ],
   "swarm_size": 6,
-  "generated_at": "2026-06-10T11:30:56Z"
+  "generated_at": "2026-06-10T12:09:33Z"
 }
