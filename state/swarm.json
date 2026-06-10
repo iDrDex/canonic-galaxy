@@ -1,0 +1,48 @@
+{
+  "peers": [
+    {
+      "actor": "github-actions@gha",
+      "last_seen": "2026-06-10T03:20:55Z",
+      "last_image_digest": "sha256:dacad7bf00ca4490e946ee0218c3577936334fec58c221e8c2689e298b6c990c",
+      "daemon_uptime_sec": 0,
+      "last_seen_relative": "1h ago"
+    },
+    {
+      "actor": "github-actions",
+      "last_seen": "2026-06-10T03:19:37Z",
+      "last_image_digest": "sha256:dacad7bf00ca4490e946ee0218c3577936334fec58c221e8c2689e298b6c990c",
+      "daemon_uptime_sec": 0,
+      "last_seen_relative": "1h ago"
+    },
+    {
+      "actor": "test",
+      "last_seen": "2026-06-09T15:23:04Z",
+      "last_image_digest": "sha256:test",
+      "daemon_uptime_sec": 0,
+      "last_seen_relative": "13h ago"
+    },
+    {
+      "actor": "idrdex@mac-01",
+      "last_seen": "2026-06-06T03:44:00Z",
+      "last_image_digest": "sha256:25b9dba246cba1e607cf125655ee929e29dc9ad7c26f227c1e87b22c84cced48",
+      "daemon_uptime_sec": 900,
+      "last_seen_relative": "4d ago"
+    },
+    {
+      "actor": "idrdex@nas-01-real",
+      "last_seen": "2026-05-26T00:57:32Z",
+      "last_image_digest": "\nsha256:20d3d037efaf909f15f9ec0e5c9cbdb057236a655a5f999d00629d62201b9e66",
+      "daemon_uptime_sec": 0,
+      "last_seen_relative": "15d ago"
+    },
+    {
+      "actor": "idrdex@nas-01",
+      "last_seen": "2026-05-25T23:41:34Z",
+      "last_image_digest": "sha256:smoketest1779752494",
+      "daemon_uptime_sec": 0,
+      "last_seen_relative": "15d ago"
+    }
+  ],
+  "swarm_size": 6,
+  "generated_at": "2026-06-10T05:10:46Z"
+}
