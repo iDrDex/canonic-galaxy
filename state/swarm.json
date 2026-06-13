@@ -38,11 +38,11 @@
     {
       "actor": "idrdex@nas-01-real",
       "last_seen": "2026-05-26T00:57:32Z",
-      "last_image_digest": "\nsha256:20d3d037efaf909f15f9ec0e5c9cbdb057236a655a5f999d00629d62201b9e66",
+      "last_image_digest": "",
       "daemon_uptime_sec": 0,
       "last_seen_relative": "18d ago"
     }
   ],
   "swarm_size": 6,
-  "generated_at": "2026-06-13T01:37:34Z"
+  "generated_at": "2026-06-13T02:12:39Z"
 }
