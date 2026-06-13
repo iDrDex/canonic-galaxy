@@ -11,15 +11,6 @@
       "is_seeder": false
     },
     {
-      "name": "nas-01-real",
-      "actor": "idrdex@nas-01-real",
-      "runner_id": "nas-01-real",
-      "url": null,
-      "reachable": false,
-      "local": false,
-      "remote": true
-    },
-    {
       "name": "mac-01",
       "actor": "idrdex@mac-01",
       "runner_id": "mac-01",
@@ -56,5 +47,5 @@
       "remote": true
     }
   ],
-  "generated_at": "2026-06-13T02:07:38Z"
+  "generated_at": "2026-06-13T02:17:40Z"
 }
