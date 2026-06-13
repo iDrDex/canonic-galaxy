@@ -1,14 +1,14 @@
 {
   "servers": [
     {
-      "name": "mac-01",
-      "actor": "iDrDex@mac-01",
-      "runner_id": "mac-01",
+      "name": "gcp-uscentral1",
+      "actor": "iDrDex@gcp-uscentral1",
+      "runner_id": "gcp-uscentral1",
       "url": null,
       "reachable": true,
       "local": true,
       "remote": false,
-      "is_seeder": true
+      "is_seeder": false
     },
     {
       "name": "nas-01",
@@ -47,6 +47,15 @@
       "remote": true
     },
     {
+      "name": "mac-01",
+      "actor": "iDrDex@mac-01",
+      "runner_id": "mac-01",
+      "url": null,
+      "reachable": false,
+      "local": false,
+      "remote": true
+    },
+    {
       "name": "test",
       "actor": "test",
       "runner_id": "test",
@@ -56,5 +65,5 @@
       "remote": true
     }
   ],
-  "generated_at": "2026-06-10T05:10:46Z"
+  "generated_at": "2026-06-13T00:12:28Z"
 }
