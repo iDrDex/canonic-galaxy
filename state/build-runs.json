@@ -2,12 +2,6 @@
   "active": null,
   "active_run_id": null,
   "runs": [],
-  "recent_attestations": [
-    {
-      "ts": "2026-06-11T23:21:12Z",
-      "payload_hash": "65b9b9e5edff7121dbc63c716fc1acea3944cb14d69fca22f9030cdd7e1edd1a",
-      "runner_id": "github-actions@gha"
-    }
-  ],
-  "generated_at": "2026-06-13T16:18:19Z"
+  "recent_attestations": [],
+  "generated_at": "2026-06-13T16:43:20Z"
 }
