@@ -4,15 +4,10 @@
   "runs": [],
   "recent_attestations": [
     {
-      "ts": "2026-06-11T23:09:37Z",
-      "payload_hash": "92f4bcbee7de80b4c8dad3393a2ff8dbfd6d3cae49ab81f54fa0463629978a19",
-      "runner_id": "github-actions@gha"
-    },
-    {
       "ts": "2026-06-11T23:21:12Z",
       "payload_hash": "65b9b9e5edff7121dbc63c716fc1acea3944cb14d69fca22f9030cdd7e1edd1a",
       "runner_id": "github-actions@gha"
     }
   ],
-  "generated_at": "2026-06-13T15:53:17Z"
+  "generated_at": "2026-06-13T16:18:19Z"
 }
