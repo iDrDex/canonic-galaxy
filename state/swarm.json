@@ -40,16 +40,16 @@
       "last_seen": "2026-05-26T00:57:32Z",
       "last_image_digest": "\nsha256:20d3d037efaf909f15f9ec0e5c9cbdb057236a655a5f999d00629d62201b9e66",
       "daemon_uptime_sec": 0,
-      "last_seen_relative": "17d ago"
+      "last_seen_relative": "18d ago"
     },
     {
       "actor": "idrdex@nas-01",
       "last_seen": "2026-05-25T23:41:34Z",
-      "last_image_digest": "sha256:smoketest1779752494",
+      "last_image_digest": "",
       "daemon_uptime_sec": 0,
       "last_seen_relative": "18d ago"
     }
   ],
   "swarm_size": 7,
-  "generated_at": "2026-06-13T00:12:28Z"
+  "generated_at": "2026-06-13T01:32:33Z"
 }
