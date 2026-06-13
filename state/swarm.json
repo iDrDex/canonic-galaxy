@@ -2,47 +2,54 @@
   "peers": [
     {
       "actor": "github-actions@gha",
-      "last_seen": "2026-06-10T14:36:41Z",
-      "last_image_digest": "sha256:27603d19f6c0df47e8fea91f08a7215c37d52ea61886350b74819f3800502b9c",
+      "last_seen": "2026-06-11T23:21:12Z",
+      "last_image_digest": "sha256:89f84e0309de426e9b392a9ee50d5677c1b1e62298620307f0a738be28040141",
       "daemon_uptime_sec": 0,
-      "last_seen_relative": "15m ago"
+      "last_seen_relative": "1d ago"
     },
     {
       "actor": "github-actions",
-      "last_seen": "2026-06-10T14:35:20Z",
-      "last_image_digest": "sha256:27603d19f6c0df47e8fea91f08a7215c37d52ea61886350b74819f3800502b9c",
+      "last_seen": "2026-06-11T23:19:50Z",
+      "last_image_digest": "sha256:8e3aa96391a056320c60a74f8f42485b1c2e2767a3c6ee9ff3ad1c13279a68b8",
       "daemon_uptime_sec": 0,
-      "last_seen_relative": "16m ago"
+      "last_seen_relative": "1d ago"
+    },
+    {
+      "actor": "idrdex@mac-01",
+      "last_seen": "2026-06-11T18:21:40Z",
+      "last_image_digest": "sha256:ff8cd5f9ce781ab7ce41feb4207251ff0e8e8153b53c8dc29c56afbc3ba8983b",
+      "daemon_uptime_sec": 900,
+      "last_seen_relative": "1d ago"
+    },
+    {
+      "actor": "iDrDex@mac-01",
+      "last_seen": "2026-06-10T15:27:21Z",
+      "last_image_digest": "",
+      "daemon_uptime_sec": 37295,
+      "last_seen_relative": "2d ago"
     },
     {
       "actor": "test",
       "last_seen": "2026-06-09T15:23:04Z",
       "last_image_digest": "sha256:test",
       "daemon_uptime_sec": 0,
-      "last_seen_relative": "23h ago"
-    },
-    {
-      "actor": "idrdex@mac-01",
-      "last_seen": "2026-06-06T03:44:00Z",
-      "last_image_digest": "sha256:25b9dba246cba1e607cf125655ee929e29dc9ad7c26f227c1e87b22c84cced48",
-      "daemon_uptime_sec": 900,
-      "last_seen_relative": "4d ago"
+      "last_seen_relative": "3d ago"
     },
     {
       "actor": "idrdex@nas-01-real",
       "last_seen": "2026-05-26T00:57:32Z",
       "last_image_digest": "\nsha256:20d3d037efaf909f15f9ec0e5c9cbdb057236a655a5f999d00629d62201b9e66",
       "daemon_uptime_sec": 0,
-      "last_seen_relative": "15d ago"
+      "last_seen_relative": "17d ago"
     },
     {
       "actor": "idrdex@nas-01",
       "last_seen": "2026-05-25T23:41:34Z",
       "last_image_digest": "sha256:smoketest1779752494",
       "daemon_uptime_sec": 0,
-      "last_seen_relative": "15d ago"
+      "last_seen_relative": "18d ago"
     }
   ],
-  "swarm_size": 6,
-  "generated_at": "2026-06-10T14:52:18Z"
+  "swarm_size": 7,
+  "generated_at": "2026-06-13T00:12:28Z"
 }
