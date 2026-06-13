@@ -34,15 +34,8 @@
       "last_image_digest": "sha256:test",
       "daemon_uptime_sec": 0,
       "last_seen_relative": "3d ago"
-    },
-    {
-      "actor": "idrdex@nas-01-real",
-      "last_seen": "2026-05-26T00:57:32Z",
-      "last_image_digest": "",
-      "daemon_uptime_sec": 0,
-      "last_seen_relative": "18d ago"
     }
   ],
-  "swarm_size": 6,
-  "generated_at": "2026-06-13T02:12:39Z"
+  "swarm_size": 5,
+  "generated_at": "2026-06-13T02:17:40Z"
 }
