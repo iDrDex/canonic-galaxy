@@ -12,15 +12,6 @@
     },
     {
       "name": "mac-01",
-      "actor": "idrdex@mac-01",
-      "runner_id": "mac-01",
-      "url": null,
-      "reachable": false,
-      "local": false,
-      "remote": true
-    },
-    {
-      "name": "mac-01",
       "actor": "iDrDex@mac-01",
       "runner_id": "mac-01",
       "url": null,
@@ -45,7 +36,16 @@
       "reachable": false,
       "local": false,
       "remote": true
+    },
+    {
+      "name": "mac-01",
+      "actor": "idrdex@mac-01",
+      "runner_id": "mac-01",
+      "url": null,
+      "reachable": false,
+      "local": false,
+      "remote": true
     }
   ],
-  "generated_at": "2026-06-13T13:53:08Z"
+  "generated_at": "2026-06-13T14:03:10Z"
 }
