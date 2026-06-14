@@ -11,18 +11,18 @@
       "is_seeder": false
     },
     {
-      "name": "gha",
-      "actor": "github-actions@gha",
-      "runner_id": "gha",
+      "name": "mac-01",
+      "actor": "iDrDex@mac-01",
+      "runner_id": "mac-01",
       "url": null,
       "reachable": false,
       "local": false,
       "remote": true
     },
     {
-      "name": "mac-01",
-      "actor": "iDrDex@mac-01",
-      "runner_id": "mac-01",
+      "name": "gha",
+      "actor": "github-actions@gha",
+      "runner_id": "gha",
       "url": null,
       "reachable": false,
       "local": false,
@@ -47,5 +47,5 @@
       "remote": true
     }
   ],
-  "generated_at": "2026-06-14T17:09:12Z"
+  "generated_at": "2026-06-14T17:24:14Z"
 }
