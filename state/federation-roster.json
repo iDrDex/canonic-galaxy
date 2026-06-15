@@ -11,15 +11,6 @@
       "is_seeder": false
     },
     {
-      "name": "test",
-      "actor": "test",
-      "runner_id": "test",
-      "url": null,
-      "reachable": false,
-      "local": false,
-      "remote": true
-    },
-    {
       "name": "mac-01",
       "actor": "iDrDex@mac-01",
       "runner_id": "mac-01",
@@ -47,5 +38,5 @@
       "remote": true
     }
   ],
-  "generated_at": "2026-06-14T23:59:29Z"
+  "generated_at": "2026-06-15T00:09:31Z"
 }
