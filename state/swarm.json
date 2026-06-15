@@ -27,15 +27,8 @@
       "last_image_digest": "",
       "daemon_uptime_sec": 37295,
       "last_seen_relative": "4d ago"
-    },
-    {
-      "actor": "test",
-      "last_seen": "2026-06-09T15:23:04Z",
-      "last_image_digest": "",
-      "daemon_uptime_sec": 0,
-      "last_seen_relative": "5d ago"
     }
   ],
-  "swarm_size": 5,
-  "generated_at": "2026-06-15T00:04:30Z"
+  "swarm_size": 4,
+  "generated_at": "2026-06-15T00:09:31Z"
 }
