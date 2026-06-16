@@ -6,15 +6,8 @@
       "last_image_digest": "sha256:89f84e0309de426e9b392a9ee50d5677c1b1e62298620307f0a738be28040141",
       "daemon_uptime_sec": 0,
       "last_seen_relative": "4d ago"
-    },
-    {
-      "actor": "github-actions",
-      "last_seen": "2026-06-11T23:19:50Z",
-      "last_image_digest": "sha256:6c6850a9e2f5c92db2e15150f25d8208d8791715182d2d1005d1b7fa3579163a",
-      "daemon_uptime_sec": 0,
-      "last_seen_relative": "4d ago"
     }
   ],
-  "swarm_size": 2,
-  "generated_at": "2026-06-16T11:15:58Z"
+  "swarm_size": 1,
+  "generated_at": "2026-06-16T11:20:59Z"
 }
