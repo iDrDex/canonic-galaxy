@@ -11,15 +11,6 @@
       "is_seeder": false
     },
     {
-      "name": "mac-01",
-      "actor": "idrdex@mac-01",
-      "runner_id": "mac-01",
-      "url": null,
-      "reachable": false,
-      "local": false,
-      "remote": true
-    },
-    {
       "name": "gha",
       "actor": "github-actions@gha",
       "runner_id": "gha",
@@ -29,5 +20,5 @@
       "remote": true
     }
   ],
-  "generated_at": "2026-06-16T07:15:46Z"
+  "generated_at": "2026-06-16T07:20:47Z"
 }
