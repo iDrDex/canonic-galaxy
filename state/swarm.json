@@ -3,11 +3,11 @@
     {
       "actor": "github-actions@gha",
       "last_seen": "2026-06-11T23:21:12Z",
-      "last_image_digest": "sha256:89f84e0309de426e9b392a9ee50d5677c1b1e62298620307f0a738be28040141",
+      "last_image_digest": "",
       "daemon_uptime_sec": 0,
       "last_seen_relative": "4d ago"
     }
   ],
   "swarm_size": 1,
-  "generated_at": "2026-06-16T11:20:59Z"
+  "generated_at": "2026-06-16T11:26:01Z"
 }
