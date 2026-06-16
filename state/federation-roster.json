@@ -9,16 +9,7 @@
       "local": true,
       "remote": false,
       "is_seeder": false
-    },
-    {
-      "name": "gha",
-      "actor": "github-actions@gha",
-      "runner_id": "gha",
-      "url": null,
-      "reachable": false,
-      "local": false,
-      "remote": true
     }
   ],
-  "generated_at": "2026-06-16T07:20:47Z"
+  "generated_at": "2026-06-16T11:31:03Z"
 }
