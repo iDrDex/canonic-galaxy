@@ -1,13 +1,5 @@
 {
-  "peers": [
-    {
-      "actor": "github-actions@gha",
-      "last_seen": "2026-06-11T23:21:12Z",
-      "last_image_digest": "",
-      "daemon_uptime_sec": 0,
-      "last_seen_relative": "4d ago"
-    }
-  ],
-  "swarm_size": 1,
-  "generated_at": "2026-06-16T11:26:01Z"
+  "peers": [],
+  "swarm_size": 0,
+  "generated_at": "2026-06-16T11:31:03Z"
 }
