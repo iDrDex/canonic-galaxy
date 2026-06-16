@@ -13,15 +13,8 @@
       "last_image_digest": "sha256:8e3aa96391a056320c60a74f8f42485b1c2e2767a3c6ee9ff3ad1c13279a68b8",
       "daemon_uptime_sec": 0,
       "last_seen_relative": "4d ago"
-    },
-    {
-      "actor": "idrdex@mac-01",
-      "last_seen": "2026-06-11T18:21:40Z",
-      "last_image_digest": "sha256:ff8cd5f9ce781ab7ce41feb4207251ff0e8e8153b53c8dc29c56afbc3ba8983b",
-      "daemon_uptime_sec": 0,
-      "last_seen_relative": "4d ago"
     }
   ],
-  "swarm_size": 3,
-  "generated_at": "2026-06-16T05:10:40Z"
+  "swarm_size": 2,
+  "generated_at": "2026-06-16T07:20:47Z"
 }
